@@ -97,31 +97,31 @@ namespace eTickets.Data
                         {
                             FullName = "Producer 1",
                             Bio = "This is the Bio of the first producer",
-                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer-1.jpg",
+                            ProfilePictureURL = "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/09/One-Piece-Monkey-D.-Luffy-Cropped.jpg",
                         },
                         new Producer()
                         {
                             FullName = "Producer 2",
                             Bio = "This is the Bio of the second producer",
-                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer-2.jpg",
+                            ProfilePictureURL = "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/09/One-Piece-Monkey-D.-Luffy-Cropped.jpg",
                         },
                         new Producer()
                         {
                             FullName = "Producer 3",
                             Bio = "This is the Bio of the third producer",
-                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer-3.jpg",
+                            ProfilePictureURL = "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/09/One-Piece-Monkey-D.-Luffy-Cropped.jpg",
                         },
                         new Producer()
                         {
                             FullName = "Producer 4",
                             Bio = "This is the Bio of the fourth producer",
-                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer-4.jpg",
+                            ProfilePictureURL = "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/09/One-Piece-Monkey-D.-Luffy-Cropped.jpg",
                         },
                         new Producer()
                         {
                             FullName = "Producer 5",
                             Bio = "This is the Bio of the fifth producer",
-                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer-5.jpg",
+                            ProfilePictureURL = "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/09/One-Piece-Monkey-D.-Luffy-Cropped.jpg",
                         }
                     });
                     context.SaveChanges();
